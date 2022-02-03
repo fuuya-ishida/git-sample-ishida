@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 aaaaaaaaaaaaaaaaaaaaaa
+=======
+aiueo
+>>>>>>> 8195c8aca89426088ea3fdc356f329feea8c181b
